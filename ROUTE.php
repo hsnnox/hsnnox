@@ -1,3 +1,3 @@
 <?php
 
-print 'hasdhtan1';
+echo 'hawewegwerbwkrejrw3jhan1';
